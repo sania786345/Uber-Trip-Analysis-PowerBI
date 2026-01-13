@@ -1,4 +1,5 @@
 🚖 Uber Trip Analysis | Power BI Dashboard
+
 📌 Project Overview
 This project analyzes Uber trip data to understand booking trends, revenue patterns, trip distances, time-based demand, and customer preferences. The dashboard is designed to provide clear business insights using interactive visuals in Power BI.
 
@@ -41,17 +42,6 @@ Short-distance trips dominate overall bookings
 Digital payments are more popular than cash
 Day trips contribute more than night trips
 Specific locations consistently generate high demand
-
-📂 Files Included
-Power BI Dashboard (.pbix)
-Dataset (.csv / .xlsx)
-README documentation
-
-🚀 How to Use
-Download the .pbix file
-Open it in Power BI Desktop
-Refresh data (if required)
-Interact with filters and visuals to explore insights
 
 🙌 Acknowledgement
 This project was created as part of my learning journey in Data Analytics & Power BI, with guidance from online resources and tutorials.
